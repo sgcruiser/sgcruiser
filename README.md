@@ -14,9 +14,13 @@
 <h3 align="left" style="color:#335577">My five "YES! I'm ready!"</h3>
 
 YES! I am ready to create cool web applications.
+
 YES! I am ready to be creative in Front-end development.
+
 YES! I am ready to be thorough in Back-end development.
+
 YES! I am ready to learn new things and improve.
+
 YES! I am ready to help and be helpful.
 
 <h3 align="left" style="color:#335577">Connect with me:</h3>
