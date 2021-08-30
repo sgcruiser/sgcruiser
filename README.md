@@ -10,9 +10,9 @@
     };
 ```
 </h1>
----
+***
 <h4 align="center" style="color:#335577">Full Stack developer</h4>
----
+***
 <h4 align="left" style="color:#335577">Connect with me:</h4>
 <p style="display:flex; justify-content:space-evenly;">
 <a href="https://linkedin.com/in/sgcruiser" target="_blank">
