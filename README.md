@@ -1,5 +1,5 @@
 
-<h1 style="display: flex; justify-content: center; margin: 20px; padding-top: 32px; padding-bottom: 15px; border: 2px solid #1A770055; border-radius: 9px; box-shadow: 0px 0px 30px 1px rgba(26,119,0,0.33) inset; background-color: #1A770011; font-size: 150%">
+<h1 style="display: flex; justify-content: center; margin: 20px; padding-top: 32px; padding-bottom: 15px; border: 2px solid #1A770055; border-radius: 9px; box-shadow: 0px 0px 30px 1px rgba(26,119,0,0.33) inset; background-color: #1A770011; font-size: 100%">
 <p>
 
 ```javascript
@@ -15,11 +15,11 @@
 <h4 align="center" style="color:#335577">Full Stack developer</h4>
 <h4 align="left" style="color:#335577">Connect with me:</h4>
 <p style="display:flex; justify-content:space-evenly;">
-<a href="https://linkedin.com/in/sgcruiser" target="blank">
+<a href="https://linkedin.com/in/sgcruiser" target="_blank">
 <!-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergey glazyrin" height="30" width="30" /> -->
-<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5&labelColor=fff&color=557799" alt="LinkedIn" title="LinkedIn" target="_blank" height="26" /></a>
-<a href="mailto:glazyrinsb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-282C34?logo=Gmail&logoColor=EA4335&labelColor=fff&color=557799" alt="LinkedIn" title="Gmail" target="_blank" height="26" />
-<a href="https://t.me/sergglaz" target="blank"><img src="https://img.shields.io/badge/Telegram-282C34?logo=Telegram&logoColor=FE7A16&labelColor=fff&color=557799" alt="Telegram" title="Telegram" target="_blank" height="26" /></a>
+<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5&labelColor=fff&color=557799" alt="LinkedIn" title="LinkedIn" height="26" /></a>
+<a href="mailto:glazyrinsb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-282C34?logo=Gmail&logoColor=EA4335&labelColor=fff&color=557799" alt="LinkedIn" title="Gmail" height="26" />
+<a href="https://t.me/sergglaz" target="_blank"><img src="https://img.shields.io/badge/Telegram-282C34?logo=Telegram&logoColor=FE7A16&labelColor=fff&color=557799" alt="Telegram" title="Telegram" height="26" /></a>
 </p>
 
 <h4 align="left" style="color:#335577">Languages and Tools:</h4>
@@ -55,6 +55,6 @@
 
 <h4 align="left" style="color:#335577">Statistics :</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgcruiser&label=Profile%20views&color=0e75b6&style=flat" alt="sgcruiser" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sgcruiser&theme=grey&hide_border=true&show_icons=true&locale=en&layout=compact" alt="sgcruiser" /></p>
-<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=sgcruiser&theme=grey&hide_border=true&show_icons=true&locale=en" alt="sgcruiser" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sgcruiser&theme=grey&hide_border=true" alt="sgcruiser" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sgcruiser&theme=vue&hide_border=true&show_icons=true&locale=en&layout=compact" alt="sgcruiser" /></p>
+<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=sgcruiser&theme=vue&hide_border=true&show_icons=true&locale=en" alt="sgcruiser" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sgcruiser&theme=vue&hide_border=true" alt="sgcruiser" /></p>
