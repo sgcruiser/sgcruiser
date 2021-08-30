@@ -18,13 +18,13 @@
 <a href="https://linkedin.com/in/sgcruiser" target="blank">
 <!-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergey glazyrin" height="30" width="30" /> -->
 <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5&labelColor=fff&color=557799" alt="LinkedIn" title="LinkedIn" target="_blank" height="26" /></a>
-<a href="mailto:glazyrinsb@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-282C34?logo=Gmail&logoColor=EA4335&labelColor=fff&color=557799" alt="LinkedIn" title="Gmail" target="_blank" height="26" />
+<a href="mailto:glazyrinsb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-282C34?logo=Gmail&logoColor=EA4335&labelColor=fff&color=557799" alt="LinkedIn" title="Gmail" target="_blank" height="26" />
 <a href="https://t.me/sergglaz" target="blank"><img src="https://img.shields.io/badge/Telegram-282C34?logo=Telegram&logoColor=FE7A16&labelColor=fff&color=557799" alt="Telegram" title="Telegram" target="_blank" height="26" /></a>
 </p>
 
 <h4 align="left" style="color:#335577">Languages and Tools:</h4>
 <p align="center">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML 5" width="38" height="38"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" target="_blank" alt="html5" title="HTML 5" width="38" height="38"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS 3" width="38" height="38"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" title="SASS" width="38" height="38"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="38" height="38"/> </a>
