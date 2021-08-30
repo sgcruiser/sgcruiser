@@ -1,6 +1,6 @@
 
 <h1 align="center" style="color:#335577">Welcome to my page!</h1>
-<h3 align="left" style="display: flex; justify-content: center; margin: 20px; padding-top: 32px; padding-bottom: 15px; border: 2px solid #1A770055; border-radius: 9px; box-shadow: 0px 0px 30px 1px rgba(26,119,0,0.33) inset; background-color: #1A770011; font-size: 100%">
+<h2 align="left" style="display: flex; justify-content: center; margin: 20px; padding-top: 32px; padding-bottom: 15px; border: 2px solid #1A770055; border-radius: 9px; box-shadow: 0px 0px 30px 1px rgba(26,119,0,0.33) inset; background-color: #1A770011; font-size: 100%">
 
 ```javascript
    const DEVELOPER = {
@@ -10,7 +10,7 @@
         set tech_skill([...development]) {this.tech_skill}
     };
 ```
-</h3>
+</h2>
 <h2 align="center" style="color:#335577">My five "YES! I'm ready!"</h2>
 
 <h3 align="center">YES! I am ready to create cool web applications.</h3>
