@@ -10,9 +10,15 @@
     };
 ```
 </h1>
----
+
+
+
+
 <h4 align="center" style="color:#335577">Full Stack developer</h4>
----
+
+
+
+
 <h4 align="left" style="color:#335577">Connect with me:</h4>
 <p style="display:flex; justify-content:space-evenly;">
 <a href="https://linkedin.com/in/sgcruiser" target="_blank">
@@ -20,6 +26,9 @@
 <a href="mailto:glazyrinsb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-282C34?logo=Gmail&logoColor=EA4335&labelColor=fff&color=557799" alt="LinkedIn" title="Gmail" height="26" />
 <a href="https://t.me/sergglaz" target="_blank"><img src="https://img.shields.io/badge/Telegram-282C34?logo=Telegram&logoColor=FE7A16&labelColor=fff&color=557799" alt="Telegram" title="Telegram" height="26" /></a>
 </p>
+
+
+
 
 <h4 align="left" style="color:#335577">Languages and Tools:</h4>
 <p align="center">
