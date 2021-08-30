@@ -11,17 +11,13 @@
     };
 ```
 </h2>
-<h3 align="left" style="color:#335577">My five "YES! I'm ready!"</h3>
+<h2 align="left" style="color:#335577">My five "YES! I'm ready!"</h2>
 
-YES! I am ready to create cool web applications.
-
-YES! I am ready to be creative in Front-end development.
-
-YES! I am ready to be thorough in Back-end development.
-
-YES! I am ready to learn new things and improve.
-
-YES! I am ready to help and be helpful.
+<p>YES! I am ready to create cool web applications.</p>
+<p>YES! I am ready to be creative in Front-end development.</p>
+<p>YES! I am ready to be thorough in Back-end development.</p>
+<p>YES! I am ready to learn new things and improve.</p>
+<p>YES! I am ready to help and be helpful.</p>
 
 <h3 align="left" style="color:#335577">Connect with me:</h3>
 <p style="display:flex; justify-content:space-evenly;">
