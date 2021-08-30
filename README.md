@@ -55,6 +55,7 @@
 
 <h4 align="left" style="color:#335577">Statistics :</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sgcruiser&label=Profile%20views&color=0e75b6&style=flat" alt="sgcruiser" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sgcruiser&theme=vue&hide_border=true&show_icons=true&locale=en&layout=compact" alt="sgcruiser" /></p>
-<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=sgcruiser&theme=vue&hide_border=true&show_icons=true&locale=en" alt="sgcruiser" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sgcruiser&theme=vue&hide_border=true" alt="sgcruiser" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sgcruiser&theme=vue&hide_border=true&show_icons=true&locale=en&layout=compact" alt="sgcruiser" />
+<img src="https://github-readme-stats.vercel.app/api?username=sgcruiser&theme=vue&hide_border=true&show_icons=true&locale=en" alt="sgcruiser" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sgcruiser&theme=vue&hide_border=true" alt="sgcruiser" /></p>
