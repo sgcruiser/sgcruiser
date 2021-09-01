@@ -12,12 +12,12 @@
     };
 ```
 </h2>
-<h2 align="center" style="color:#335577; padding-bottom:0px">My five "YES! I'm ready!"</h2>
-<h3 align="center" style="color:#335577; margin: 10px">YES! I am ready to create cool web applications.</h3>
-<h3 align="center" style="color:#335577; margin: 10px">YES! I am ready to be creative in Front-end development.</h3>
-<h3 align="center" style="color:#335577; margin: 10px">YES! I am ready to be thorough in Back-end development.</h3>
-<h3 align="center" style="color:#335577; margin: 10px">YES! I am ready to learn new things and improve.</h3>
-<h3 align="center" style="color:#335577; margin: 10px">YES! I am ready to help and be helpful.</h3>
+<h2 align="center">My five "YES! I'm ready!"</h2>
+<h3 align="center">YES! I am ready to create cool web applications.</h3>
+<h3 align="center">YES! I am ready to be creative in Front-end development.</h3>
+<h3 align="center">YES! I am ready to be thorough in Back-end development.</h3>
+<h3 align="center">YES! I am ready to learn new things and improve.</h3>
+<h3 align="center" ">YES! I am ready to help and be helpful.</h3>
 
 <h3 align="left" style="color:#335577">Connect with me:</h3>
 <p style="display:flex; justify-content:space-evenly;">
