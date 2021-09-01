@@ -1,7 +1,7 @@
 
 <h1 align="center" style="color:#335577">Welcome to my page!</h1>
-<h2 align="left" style="display: flex; justify-content: center; margin: 20px; padding-top: 32px; padding-bottom: 15px; border: 2px solid #1A770055; border-radius: 9px; box-shadow: 0px 0px 30px 1px rgba(26,119,0,0.33) inset; background-color: #1A770011; font-size: 100%">
-
+<!-- <h2 align="left" style="display: flex; justify-content: center; margin: 20px; padding-top: 32px; padding-bottom: 15px; border: 2px solid #1A770055; border-radius: 9px; box-shadow: 0px 0px 30px 1px rgba(26,119,0,0.33) inset; background-color: #1A770011; font-size: 100%"> -->
+****
 ```javascript
    const DEVELOPER = {
         name: "Sergey",
@@ -10,14 +10,14 @@
         set tech_skill([...development]) {this.tech_skill}
     };
 ```
-</h2>
-<h2 align="center" style="color:#335577">My five "YES! I'm ready!"</h2>
-
-<h3 align="center">YES! I am ready to create cool web applications.</h3>
-<h3 align="center">YES! I am ready to be creative in Front-end development.</h3>
-<h3 align="center">YES! I am ready to be thorough in Back-end development.</h3>
-<h3 align="center">YES! I am ready to learn new things and improve.</h3>
-<h3 align="center">YES! I am ready to help and be helpful.</h3>
+****
+<!-- </h2> -->
+<h2 align="center" style="color:#335577; padding-bottom:0px">My five "YES! I'm ready!"</h2>
+<h3 align="center" style="color:#335577; margin: 10px">YES! I am ready to create cool web applications.</h3>
+<h3 align="center" style="color:#335577; margin: 10px">YES! I am ready to be creative in Front-end development.</h3>
+<h3 align="center" style="color:#335577; margin: 10px">YES! I am ready to be thorough in Back-end development.</h3>
+<h3 align="center" style="color:#335577; margin: 10px">YES! I am ready to learn new things and improve.</h3>
+<h3 align="center" style="color:#335577; margin: 10px">YES! I am ready to help and be helpful.</h3>
 
 <h3 align="left" style="color:#335577">Connect with me:</h3>
 <p style="display:flex; justify-content:space-evenly;">
