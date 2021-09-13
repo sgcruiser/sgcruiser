@@ -43,6 +43,7 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" title="React" width="38" height="38"/> </a>
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="Redux" width="38" height="38"/> </a>
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/react-router.svg" alt="react router" title="React Router" width="38" height="38"/> </a>
+<a href="https://axios-http.com" target="_blank"> <img src="https://user-images.githubusercontent.com/43313420/105883661-64604380-6007-11eb-8cfa-45ff66b37fdb.png" alt="axios" title="Axios" width="38" height="38"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" title="Node.js" width="38" height="38"/> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" title="Express" width="38" height="38"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" title="MongoDB" height="38"/> </a>
@@ -51,6 +52,7 @@
 <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git hub" title="Git Hub" width="38" height="38"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio code" title="Visual Studio Code" width="38" height="38"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="38" height="38"/> </a>
+<a href="https://developer.chrome.com/docs/devtools/" target="_blank"> <img src="https://raw.githubusercontent.com/ChromeDevTools/devtools-logo/master/Logo.svg" alt="Chrome DevTools" title="Chrome DevTools" width="38" height="38"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="38" height="38"/> </a>
 <a href="https://www.npmjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg" alt="npm" title="NPM" width="38" height="38"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="38" height="38"/> </a>
@@ -60,6 +62,9 @@
 <a href="https://gulpjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" title="Gulp" width="38" height="38"/> </a>
 <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-ar21.svg" alt="babel" title="Babel" width="58" height="38"/> </a>
 <a href="https://webpack.js.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" title="Webpack" height="38"/> </a>
+</p>
+<p align="left">
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" title="Slack" width="38" height="38"/> </a>
 </p>
 
 <h3 align="left" style="color:#335577">Statistics :</h3>
