@@ -47,6 +47,7 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" title="Node.js" width="38" height="38"/> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" title="Express" width="38" height="38"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" title="MongoDB" height="38"/> </a>
+<a href="https://www.json.org/json-ru.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" title="JSON" height="38"/> </a>
 </p>
 <p align="left">
 <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git hub" title="Git Hub" width="38" height="38"/> </a>
