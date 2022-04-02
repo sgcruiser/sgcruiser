@@ -53,7 +53,7 @@
 <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git hub" title="Git Hub" width="38" height="38"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio code" title="Visual Studio Code" width="38" height="38"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="38" height="38"/> </a>
-<a href="https://developer.chrome.com/docs/devtools/" target="_blank"> <img src="https://raw.githubusercontent.com/ChromeDevTools/devtools-logo/master/Logo.svg" alt="Chrome DevTools" title="Chrome DevTools" width="38" height="38"/> </a>
+<a href="https://developer.chrome.com/docs/devtools/" target="_blank"> <img src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/svg/chrome-devtools-square.svg" alt="Chrome DevTools" title="Chrome DevTools" width="38" height="38"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="38" height="38"/> </a>
 <a href="https://www.npmjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg" alt="npm" title="NPM" width="38" height="38"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="38" height="38"/> </a>
