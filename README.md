@@ -61,11 +61,11 @@
 <a href="https://trello.com/ru" target="_blank"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="Trello" height="38"/> </a>
 <a href="https://parceljs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/parceljs/parceljs-icon.svg" alt="parcel" title="Parcel" height="38"/> </a>
 <a href="https://gulpjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" title="Gulp" width="38" height="38"/> </a>
-<a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-ar21.svg" alt="babel" title="Babel" width="58" height="38"/> </a>
+<a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-ar21.svg" alt="babel" title="Babel" width="38" height="38"/> </a>
 <a href="https://webpack.js.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" title="Webpack" height="38"/> </a>
 </p>
 <p align="left">
-<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" title="Slack" width="38" height="38"/> </a>
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" title="Slack" width="32" height="32"/> </a>
 </p>
 
 <h3 align="left" style="color:#335577">Statistics :</h3>
