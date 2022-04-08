@@ -3,7 +3,7 @@
 <!-- <h2 align="left" style="display: flex; justify-content: center; margin: 20px; padding-top: 32px; padding-bottom: 15px; border: 2px solid #1A770055; border-radius: 9px; box-shadow: 0px 0px 30px 1px rgba(26,119,0,0.33) inset; background-color: #1A770011; font-size: 100%"> -->
 <h3 align="left">
 
-```javascript
+```JAVASCRIPT
    const DEVELOPER = {
         name: "Sergiy",
         surname: "Glazyrin",
@@ -12,10 +12,10 @@
     };
 ```
 </h3>
-<h2 align="center">My five "YES! I'm ready!"</h2>
-<h3 align="left">
+<details align="right"><summary><h2>My five "YES! I'm ready!"</h2></summary>
+<h3 align="right">
    
-   ```typescript
+   ```javascript
    YES! I am ready to create cool web applications.
    YES! I am ready to be creative in Front-end development.
    YES! I am ready to be thorough in Back-end development.
@@ -24,6 +24,7 @@
    ```
    
 </h3>
+</details>   
 
 <h3 align="left" style="color:#335577">Connect with me:</h3>
 <p style="display:flex; justify-content:space-evenly;">
