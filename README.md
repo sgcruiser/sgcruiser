@@ -63,6 +63,7 @@
 <a href="https://developer.chrome.com/docs/devtools/" target="_blank"> <img src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/svg/chrome-devtools-square.svg" alt="Chrome DevTools" title="Chrome DevTools" width="36" height="36"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="36" height="36"/> </a>
 <a href="https://www.npmjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg" alt="npm" title="NPM" width="38" height="38"/> </a>
+<a href="http://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="BASH" width="38" height="38"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="36" height="36"/> </a>
 <a href="https://eslint.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint" title="Eslint" width="36" height="36"/> </a>
 <a href="https://trello.com/ru" target="_blank"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="Trello" height="36"/> </a>
