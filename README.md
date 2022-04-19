@@ -13,15 +13,17 @@
 ```
 </h3>
 <details align="right"><summary><h2>My five "YES! I'm ready!"</h2></summary>
-<h3 align="right">
+<h3 align="left">
    
-   ```javascript
-   YES! I am ready to create cool web applications.
-   YES! I am ready to be creative in Front-end development.
-   YES! I am ready to be thorough in Back-end development.
-   YES! I am ready to learn new things and improve.
-   YES! I am ready to help and be helpful.
-   ```
+ ```JAVASCRIPT
+   enum Readiness {
+         CREATE = 'YES! I am ready to create cool web applications.',
+         CREATIVE = 'YES! I am ready to be creative in Front-end development.',
+         THOROUGH = 'YES! I am ready to be thorough in Back-end development.',
+         LEARN = 'YES! I am ready to learn new things and improve.',
+         HELP = 'YES! I am ready to help and be helpful.'
+   };
+ ```
    
 </h3>
 </details>   
