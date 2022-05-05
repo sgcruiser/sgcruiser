@@ -1,5 +1,6 @@
 
-<h1 align="center" style="color:#335577">Welcome to my page!</h1>
+<!--<h1 align="center" style="color:#335577">Welcome to my page!</h1>--!>
+<h1 align="center"><a href="https://github.com/sgcruiser" target="_blank"> <img src="https://badgen.net/badge/Welcome to my page!/SGCRUISER/purple?icon=github" alt="SGCRUISER" title="Wellcome to my page!" height="40"/> </a></h1>
 <!-- <h2 align="left" style="display: flex; justify-content: center; margin: 20px; padding-top: 32px; padding-bottom: 15px; border: 2px solid #1A770055; border-radius: 9px; box-shadow: 0px 0px 30px 1px rgba(26,119,0,0.33) inset; background-color: #1A770011; font-size: 100%"> -->
 <h3 align="left">
 
@@ -39,7 +40,8 @@
 
 
 
-
+   
+   
 <h3 align="left" style="color:#335577">Languages, Technologies and Tools:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" target="_blank" alt="html5" title="HTML 5" width="36" height="36"/> </a>
@@ -62,6 +64,7 @@
 <p align="left">
 <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git hub" title="Git Hub" width="36" height="36"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio code" title="Visual Studio Code" width="36" height="36"/> </a>
+<!--<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label" alt="visual studio code" title="Visual Studio Code" height="36"/> </a>--!>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="36" height="36"/> </a>
 <a href="https://developer.chrome.com/docs/devtools/" target="_blank"> <img src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/svg/chrome-devtools-square.svg" alt="Chrome DevTools" title="Chrome DevTools" width="36" height="36"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="36" height="36"/> </a>
