@@ -1,6 +1,6 @@
 
-<!--<h1 align="center" style="color:#335577">Welcome to my page!</h1>--!>
-<h1 align="center"><a href="https://github.com/sgcruiser" target="_blank"> <img src="https://badgen.net/badge/Welcome/SGCRUISER/purple?icon=github&labelColor=335577&scale=2.4&label=Welcome+to+my+page!" alt="SGCRUISER" title="Welcome to my page!"/> </a></h1>
+<!--<h1 align="center" style="color:335577">Welcome to my page!</h1>--!>
+<h1 align="center"><a href="https://github.com/sgcruiser" target="_blank"> <img src="https://badgen.net/badge/Welcome/SGCRUISER/purple?icon=https://sgcruiser.github.io/logo_sgcruiser/logo_sgcruiser_2.svg&labelColor=115599&scale=2.4&label=Welcome+to+my+page!" alt="SGCRUISER" title="Welcome to my page!"/> </a></h1>
 <!-- <h2 align="left" style="display: flex; justify-content: center; margin: 20px; padding-top: 32px; padding-bottom: 15px; border: 2px solid #1A770055; border-radius: 9px; box-shadow: 0px 0px 30px 1px rgba(26,119,0,0.33) inset; background-color: #1A770011; font-size: 100%"> -->
 <h3 align="left">
 
