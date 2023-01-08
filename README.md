@@ -66,7 +66,7 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visual studio code" title="Visual Studio Code" width="36" height="36"/> </a>
 <!--<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label" alt="visual studio code" title="Visual Studio Code" height="36"/> </a>--!>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="36" height="36"/> </a>
-<a href="https://developer.chrome.com/docs/devtools/" target="_blank"> <img src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/svg/chrome-devtools-square.svg" alt="Chrome DevTools" title="Chrome DevTools" width="36" height="36"/> </a>
+<a href="https://developer.chrome.com/docs/devtools/" target="_blank"> <img src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/svg/chrome-devtools-square-48.svg" alt="Chrome DevTools" title="Chrome DevTools" width="36" height="36"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="36" height="36"/> </a>
 <a href="https://www.npmjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg" alt="npm" title="NPM" width="38" height="38"/> </a>
 <a href="http://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="BASH" width="38" height="38"/> </a>
