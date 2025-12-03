@@ -54,7 +54,7 @@
 <p align="left">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" title="React" width="36" height="36"/> </a>
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="Redux" width="36" height="36"/> </a>
-<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/react-router.svg" alt="react router" title="React Router" width="36" height="36"/> </a>
+<a href="https://reactrouter.com/" target="_blank"> <img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.svg" alt="react router" title="React Router" width="36" height="36"/> </a>
 <a href="https://axios-http.com" target="_blank"> <img src="https://user-images.githubusercontent.com/43313420/105883661-64604380-6007-11eb-8cfa-45ff66b37fdb.png" alt="axios" title="Axios" width="36" height="36"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" title="Node.js" width="36" height="36"/> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" title="Express" width="36" height="36"/> </a>
