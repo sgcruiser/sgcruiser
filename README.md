@@ -6,8 +6,8 @@
 
 ```JAVASCRIPT
    const DEVELOPER = {
-        name: "Sergiy",
-        surname: "Glazyrin",
+        name: "Serg",
+        surname: "Gl",
         get tech_skill() {return "Full Stack"},
         set tech_skill([...development]) {this.tech_skill}
     };
@@ -32,10 +32,10 @@
 
 <h3 align="left" style="color:#335577">Connect with me:</h3>
 <p style="display:flex; justify-content:space-evenly;">
-<a href="https://linkedin.com/in/sgcruiser" target="_blank">
+#<a href="https://linkedin.com/in/sgcruiser" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5&labelColor=fff&color=557799" alt="LinkedIn" title="LinkedIn" height="22" /></a>
-<a href="mailto:glazyrinsb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-282C34?logo=Gmail&logoColor=EA4335&labelColor=fff&color=557799" alt="LinkedIn" title="Gmail" height="22" />
-<a href="https://t.me/Sergey_Glazyrin" target="_blank"><img src="https://img.shields.io/badge/Telegram-282C34?logo=Telegram&logoColor=FE7A16&labelColor=fff&color=557799" alt="Telegram" title="Telegram" height="22" /></a>
+#<a href="mailto:glazyrinsb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-282C34?logo=Gmail&logoColor=EA4335&labelColor=fff&color=557799" alt="LinkedIn" title="Gmail" height="22" />
+#<a href="https://t.me/Sergey_Glazyrin" target="_blank"><img src="https://img.shields.io/badge/Telegram-282C34?logo=Telegram&logoColor=FE7A16&labelColor=fff&color=557799" alt="Telegram" title="Telegram" height="22" /></a>
 </p>
 
 
