@@ -6,8 +6,8 @@
 
 ```JAVASCRIPT
    const DEVELOPER = {
-        name: "Serg",
-        surname: "Gl",
+        name: "S",
+        surname: "G",
         get tech_skill() {return "Full Stack"},
         set tech_skill([...development]) {this.tech_skill}
     };
